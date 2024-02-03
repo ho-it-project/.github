@@ -1,12 +1,55 @@
-## Hi there 👋
+# Hoit - 응급상황 시스템
 
-<!--
+## 개발스택
 
-**Here are some ideas to get you started:**
+### Server
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- NestJS
+- Nestia
+- Prisma
+- Kafka
+- SocketIO
+
+### Front
+
+- NextJS
+- Zustand
+- Swr
+- SocketIO
+
+### Infra / CICD
+
+- Terraform
+- AWS
+- Docker
+- Jenkins
+
+### 아키텍처
+
+![Alt text](../image/hoit-archi.drawio.png)
+
+### DB 설계
+
+> 전체
+> ![Alt text](../image/%EC%A0%84%EC%B2%B4.png)
+
+> ER (응급실)
+> ![Alt text](../image/ER.png)
+
+> EMS (구급대원)
+> ![Alt text](../image/EMS.png)
+
+> 요청관련
+> ![Alt text](../image/%EC%9A%94%EC%B2%AD%EA%B4%80%EB%A0%A8.png)
+
+### EMS 구급대원 시스템
+
+> ![Alt text](<../image/ems/Slide 16_9 - 102.png>) > ![Alt text](<../image/ems/Slide 16_9 - 103.png>) > ![Alt text](<../image/ems/Slide 16_9 - 104.png>) > ![Alt text](<../image/ems/Slide 16_9 - 105.png>)
+
+### ER 응급실 시스템
+
+![Alt text](<../image/er/Slide 16_9 - 106.png>)
+![Alt text](<../image/er/Slide 16_9 - 107.png>)
+![Alt text](<../image/er/Slide 16_9 - 108.png>)
+![Alt text](<../image/er/Slide 16_9 - 109.png>)
+![Alt text](<../image/er/Slide 16_9 - 110.png>)
