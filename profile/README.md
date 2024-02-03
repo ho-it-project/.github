@@ -26,30 +26,30 @@
 
 ### 아키텍처
 
-![Alt text](../image/hoit-archi.drawio.png)
+![Alt text](https://github.com/ho-it-project/.github/tree/main/image/hoit-archi.drawio.png)
 
 ### DB 설계
 
 > 전체
-> ![Alt text](../image/%EC%A0%84%EC%B2%B4.png)
+> ![Alt text](https://github.com/ho-it-project/.github/tree/main/image/%EC%A0%84%EC%B2%B4.png)
 
 > ER (응급실)
-> ![Alt text](../image/ER.png)
+> ![Alt text](https://github.com/ho-it-project/.github/tree/main/image/ER.png)
 
 > EMS (구급대원)
-> ![Alt text](../image/EMS.png)
+> ![Alt text](https://github.com/ho-it-project/.github/tree/main/image/EMS.png)
 
 > 요청관련
-> ![Alt text](../image/%EC%9A%94%EC%B2%AD%EA%B4%80%EB%A0%A8.png)
+> ![Alt text](https://github.com/ho-it-project/.github/tree/main/image/%EC%9A%94%EC%B2%AD%EA%B4%80%EB%A0%A8.png)
 
 ### EMS 구급대원 시스템
 
-> ![Alt text](<../image/ems/Slide 16_9 - 102.png>) > ![Alt text](<../image/ems/Slide 16_9 - 103.png>) > ![Alt text](<../image/ems/Slide 16_9 - 104.png>) > ![Alt text](<../image/ems/Slide 16_9 - 105.png>)
+> ![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/ems/Slide 16_9 - 102.png>) > ![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/ems/Slide 16_9 - 103.png>) > ![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/ems/Slide 16_9 - 104.png>) > ![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/ems/Slide 16_9 - 105.png>)
 
 ### ER 응급실 시스템
 
-![Alt text](<../image/er/Slide 16_9 - 106.png>)
-![Alt text](<../image/er/Slide 16_9 - 107.png>)
-![Alt text](<../image/er/Slide 16_9 - 108.png>)
-![Alt text](<../image/er/Slide 16_9 - 109.png>)
-![Alt text](<../image/er/Slide 16_9 - 110.png>)
+![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/er/Slide 16_9 - 106.png>)
+![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/er/Slide 16_9 - 107.png>)
+![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/er/Slide 16_9 - 108.png>)
+![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/er/Slide 16_9 - 109.png>)
+![Alt text](<https://github.com/ho-it-project/.github/tree/main/image/er/Slide 16_9 - 110.png>)
