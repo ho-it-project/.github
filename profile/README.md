@@ -27,7 +27,7 @@
 ### 아키텍처
 
 
-![a](https://github.com/ho-it-project/.github/blob/main/image/ER.png)
+![a](https://github.com/ho-it-project/.github/blob/main/image/hoit-archi.drawio.png)
 ### DB 설계
 
 > 전체
